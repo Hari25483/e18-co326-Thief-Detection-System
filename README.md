@@ -12,7 +12,7 @@ These projects will be automatically added into [https://projects.ce.pdn.ac.lk](
     {
       "name": "Hariharan Raveenthiran",
       "email": "e18128@eng.pdn.ac.lk",
-      "eNumber": "E/18/128"
+      "eNumber": "E/18/128",
     },
     {
       "name": "Vilakshan Vinasirajan",
@@ -22,7 +22,7 @@ These projects will be automatically added into [https://projects.ce.pdn.ac.lk](
     {
       "name": "Karan Rasathurai",
       "email": "e18168@eng.pdn.ac.lk",
-      "eNumber": "E/18/168"
+      "eNumber": "E/18/168",
     }
   ],
   "supervisors": [
